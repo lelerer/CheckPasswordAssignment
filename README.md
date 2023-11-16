@@ -13,8 +13,8 @@ length, the presence of letters and digits, and whether the password contains fu
 
 ### Usage
 ![](https://github.com/lelerer/CheckPasswordAssignment/blob/main/1.png)
+1. Run the program.
 
-1. Open the index.html file in a web browser.
 2. You will see a form for password input and a button to validate the password.
 
 3. Enter a password in the input field and click the "Validate Password" button.
@@ -27,5 +27,5 @@ length, the presence of letters and digits, and whether the password contains fu
 3. Does not contain full English words.
 
 ### Customizing Word List
-If you want to customize the list of words used for validation or include more languages' letters, it can be easily done by replacing the content of the wordList.txt file with your own list of words.
+If you want to customize the list of words used for validation or include more languages' letters, simply replace the content of the wordList.txt file with your own list of words.
 
